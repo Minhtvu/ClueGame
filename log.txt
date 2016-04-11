@@ -1,0 +1,294 @@
+commit 53c6c3e6f6b1c16eb785281365d16e7e902a5508
+Author: Clayton Howeth <choweth@mymail.mines.edu>
+Date:   Mon Apr 4 22:47:56 2016 -0600
+
+    Correctly added DetectiveNotes.java to git (whoops).
+
+commit d84b313741928585dd66e7205901f6b94123440c
+Author: Clayton Howeth <choweth@mymail.mines.edu>
+Date:   Mon Apr 4 22:36:48 2016 -0600
+
+    Completed dialog box for Detective notes.
+
+commit f23178bbd0fd0d5f2205417c46e9ab28fe32f5be
+Author: Clayton Howeth <choweth@mymail.mines.edu>
+Date:   Mon Apr 4 12:58:58 2016 -0600
+
+    Added Dialog box for Detective notes. Only one cell in notes
+
+commit ae91f901adf23db98762424eda46a7a86045bcb6
+Author: Clayton Howeth <choweth@mymail.mines.edu>
+Date:   Mon Apr 4 12:30:21 2016 -0600
+
+    Board displays correct grid, room names, and players
+
+commit e29eed7a859911a92c7338460c95cac6799cc43a
+Author: Clayton Howeth <choweth@mymail.mines.edu>
+Date:   Tue Mar 29 17:32:39 2016 -0600
+
+    Board displays correct grid. TODO: Add room names && Players
+
+commit 41825f6f36ed2c482fb458746372d294b0e41251
+Author: Clayton Howeth <choweth@mymail.mines.edu>
+Date:   Tue Mar 29 16:50:43 2016 -0600
+
+    Initial grid display, nothing fancy.
+
+commit 900d18a7f2d28b43a45fab7083ad6c3af46edd58
+Author: Clayton Howeth <choweth@mymail.mines.edu>
+Date:   Thu Mar 24 20:43:43 2016 -0600
+
+    Comments added for grader. DONE!
+
+commit 7d774b446e7c6aa54aaf293866da882091cf5ed5
+Author: Clayton Howeth <choweth@mymail.mines.edu>
+Date:   Thu Mar 24 20:33:04 2016 -0600
+
+    Computer Suggestion test PASSED.
+
+commit 2b074db6dc41cf130b5a858bbf28ad4afabebe0a
+Author: Clayton Howeth <choweth@mymail.mines.edu>
+Date:   Thu Mar 24 19:49:23 2016 -0600
+
+    Computer Suggestion test added. Fails.
+
+commit 84e0f8d8bffc88220784046072ed045bbbcbeac2
+Author: Clayton Howeth <choweth@mymail.mines.edu>
+Date:   Thu Mar 24 19:18:49 2016 -0600
+
+    All target tests pass.
+
+commit 0db85c646149abc7d99c89cd94294d0669ee8937
+Author: Clayton Howeth <choweth@mymail.mines.edu>
+Date:   Thu Mar 24 18:42:12 2016 -0600
+
+    Added Target Tests(). All fail.
+
+commit 995d0cb4839709b7877bcb290cfaadbd78ae3268
+Author: Clayton Howeth <choweth@mymail.mines.edu>
+Date:   Thu Mar 24 18:04:12 2016 -0600
+
+    all Disproving Suggestion tests pass
+
+commit 745fae5a686c34a6ad17204552aeb94fbba8bd5e
+Author: Clayton Howeth <choweth@mymail.mines.edu>
+Date:   Thu Mar 24 17:30:29 2016 -0600
+
+    testDisproveSuggtion() passes!
+
+commit 2e9e0669a72f76961c950febe9d3cc2db2aad82b
+Author: Clayton Howeth <choweth@mymail.mines.edu>
+Date:   Thu Mar 24 17:12:37 2016 -0600
+
+    Completely added JUnit testDisproveSuggestion() and fails.
+
+commit 18542bde2e2f9cc3b5872f3b1d3085794f3ac33c
+Author: Clayton Howeth <choweth@mymail.mines.edu>
+Date:   Thu Mar 24 16:30:26 2016 -0600
+
+    Added JUnit testDisproveSuggestion() and fails.
+
+commit f87c17dcbf64558fa9b31bcc06d02bf861b1008b
+Author: Clayton Howeth <choweth@mymail.mines.edu>
+Date:   Tue Mar 22 19:49:50 2016 -0600
+
+    Added comments explaining all JUnit Tests
+
+commit 3929ae41ac05c1ba9ee4ae0df664dc1767abb9b8
+Author: Clayton Howeth <choweth@mymail.mines.edu>
+Date:   Tue Mar 22 19:38:37 2016 -0600
+
+    Made testAccusation() pass
+
+commit bd40af110a05884e9bae41718ed9225bb0fd9c77
+Author: Clayton Howeth <choweth@mymail.mines.edu>
+Date:   Tue Mar 22 19:37:57 2016 -0600
+
+    Added failing testAccusation() and made testDeal() pass.
+
+commit 1a0fb18f8bd54d29a43b539ed25cf04cdf49bb07
+Author: Clayton Howeth <choweth@mymail.mines.edu>
+Date:   Tue Mar 22 19:05:34 2016 -0600
+
+    Added failing testDeal()
+
+commit 12c0d928c89f3fb4fd81fb53cc6dd947c22001d2
+Author: Clayton Howeth <choweth@mymail.mines.edu>
+Date:   Tue Mar 22 18:21:24 2016 -0600
+
+    Made testLoadCards() pass
+
+commit e94435e206f9f7f455908f96dddcade0f68ffdd3
+Author: Clayton Howeth <choweth@mymail.mines.edu>
+Date:   Tue Mar 22 17:53:54 2016 -0600
+
+    Added failing testLoadCards()
+
+commit c96e48bb2aa65738b304a628748c30104e411695
+Author: Clayton Howeth <choweth@mymail.mines.edu>
+Date:   Tue Mar 22 17:25:13 2016 -0600
+
+    Added passing testLoadPeople()
+
+commit 8d6bde0a689366edd87e882562473b8222385f54
+Author: Clayton Howeth <choweth@mymail.mines.edu>
+Date:   Tue Mar 22 17:10:40 2016 -0600
+
+    Added failing testLoadPeople()
+
+commit 1f6b1c169de47ed38a6f8bf9ddd5ee091afcb618
+Author: Clayton Howeth <choweth@mymail.mines.edu>
+Date:   Tue Mar 22 16:27:19 2016 -0600
+
+    Added cards config file. No JUnit.
+
+commit b0dd6aa25b491c99a052f6192d9981ac2893a97f
+Author: Clayton Howeth <choweth@mymail.mines.edu>
+Date:   Tue Mar 22 16:18:14 2016 -0600
+
+    Added player config file. No JUnit.
+
+commit 56f1bbd884ac15648f2bae0cbc0b3598f2831565
+Author: Clayton Howeth <choweth@mymail.mines.edu>
+Date:   Tue Mar 22 16:05:05 2016 -0600
+
+    Initial classes with empty functions and variables. No JUnit.
+
+commit b7556f526e394389c0ab63c3f7d78a5597398873
+Author: Clayton Howeth <choweth@mymail.mines.edu>
+Date:   Thu Mar 10 16:13:19 2016 -0700
+
+    Initial commit with Swapped Code
+
+commit 382a54dbb1ebdef2c3df495f9b0a2fac39f2d110
+Author: bartlettmic <bartlettmic@gmail.com>
+Date:   Wed Mar 9 20:36:39 2016 -0700
+
+    Personal tests now work with our respective gameboard
+    	Add diagram of where tests take place
+
+commit 5de97af38fc4df4b1492793e5dc77b797ae20867
+Author: Jed Menard <jmenard@mymail.mines.edu>
+Date:   Wed Mar 9 15:38:00 2016 -0700
+
+    Fixed some errors with files not being found
+
+commit 8fdf917560551cc1a5cf32787c477afff3e30974
+Author: unknown <jmenard@BB316B-15.adit.mines.edu>
+Date:   Tue Mar 1 16:45:19 2016 -0700
+
+    Uncomment tests, change boolean logic
+
+commit 4367e7ff6c06d2fe53747b85340a5000138cc597
+Author: Jed Menard <jmenard@mymail.mines.edu>
+Date:   Mon Feb 29 23:46:42 2016 -0700
+
+    Final commit before turning in part II.
+
+commit 7a46ad195c225d91bc61d94b9b0427e2e09ab8b1
+Author: Jed Menard <jmenard@mymail.mines.edu>
+Date:   Mon Feb 29 23:38:58 2016 -0700
+
+    Actually added the new tests to my commit... oops haha
+
+commit 7e61af48147fcd08164c7f2462e7ae4294a62d13
+Author: Jed Menard <jmenard@mymail.mines.edu>
+Date:   Mon Feb 29 23:37:50 2016 -0700
+
+    Wrote code for all the tests for parts I and II.
+
+commit 2db124c51b29fbcee29b8f05e5ce5eced2988c4f
+Author: Jed Menard <jmenard@mymail.mines.edu>
+Date:   Mon Feb 29 21:48:47 2016 -0700
+
+    Accidentally forgot to do commits and pushes for a while, but completed most of the work for part II. All the failed tests from part I now pass.
+
+commit 15682af3ad51441e87c0add0b179063e12d128b3
+Author: unknown <jmenard@CH215B-13.adit.mines.edu>
+Date:   Mon Feb 29 15:47:59 2016 -0700
+
+    Did a little work for initializing the board from a config file.
+
+commit f175c0b86411042e7b8671083bd9c3331b444e63
+Author: Jed Menard <jmenard@mymail.mines.edu>
+Date:   Mon Feb 29 00:25:03 2016 -0700
+
+    Completed enough stubs to make the tests run (i.e. no exceptions) but fail.
+
+commit cb005f168b91784697e6a974600cc16fa3a08ca1
+Author: Jed Menard <jmenard@mymail.mines.edu>
+Date:   Sun Feb 28 23:14:19 2016 -0700
+
+    Added a bunch of new classes and stubs to fit the assignment description. Renamed the packacge to fit the assignment description.
+
+commit 1779fc583f6e5a3eebcc793a7126ecc86d8ccd4f
+Author: Jed Menard <jmenard@mymail.mines.edu>
+Date:   Thu Feb 25 21:29:32 2016 -0700
+
+    Got the code to work as needed for PathsII. The problems were that the adjacencies were never getting calculated in most cases (fixed by running calcAdjacencies at the end of the constructor), getAdjList was returning an unused variable that was defined when first writing the code, then never used (fixed by instead returning the list associated with the given cell from the adjacencies map), and changing the return type of getAdjList to an ArrayList. I also cleaned up a lot of vestigial code and added descriptive comments, as well as changing the grid acessors (x and y) to row and column to make it more understandable. This should be easier to come back to now, and easier for the next group to understand our code.
+
+commit 0039c0783e1067773dd541160d4ae9f18cbc45d5
+Author: unknown <jmenard@BB316B-15.adit.mines.edu>
+Date:   Thu Feb 25 18:32:04 2016 -0700
+
+    Did work.
+
+commit 4d576c07becdcc27f377f7a0e99fcb5b49b7f6d2
+Author: unknown <jmenard@BB316B-15.adit.mines.edu>
+Date:   Thu Feb 25 16:46:32 2016 -0700
+
+    Correctly populat grid.
+
+commit 668f4b4fd0310acc7bb7230519d1e1fa50c17a89
+Author: Jed Menard <jmenard@mymail.mines.edu>
+Date:   Wed Feb 24 20:42:04 2016 -0700
+
+    Implemented the pathCreation test. Part 1 is now done.
+
+commit a01e06037ec58a1cb52cc1a279b272e5683efcc7
+Author: Jed Menard <jmenard@mymail.mines.edu>
+Date:   Wed Feb 24 20:27:08 2016 -0700
+
+    Tested middle pieces ([1,1] and [2,2]).
+
+commit 321794df674bd3eac30a0a59b97e0c138835d374
+Author: Jed Menard <jmenard@mymail.mines.edu>
+Date:   Wed Feb 24 20:19:50 2016 -0700
+
+    Tested left and right edges.
+
+commit 226fbbadae437c270fdfdb7b73c4ea7b0cc49a00
+Author: Jed Menard <jmenard@mymail.mines.edu>
+Date:   Wed Feb 24 20:12:21 2016 -0700
+
+    It's possible my last several commits weren't including my src file... My bad. Added the src file and wrote tests for the Top Left (TL) and Bottom Right (BR) corners of the grid.
+
+commit d70217cb8fea1ee3a33a524f74ebff5d521d4b8d
+Author: Jed Menard <jmenard@mymail.mines.edu>
+Date:   Wed Feb 24 20:00:03 2016 -0700
+
+    Forgot to add the grid to IntBoard. Oops. The code should be ready to write the tests now.
+
+commit 14378f05a2f02f7eab1ec410522cbcc794605027
+Author: Jed Menard <jmenard@mymail.mines.edu>
+Date:   Wed Feb 24 19:57:41 2016 -0700
+
+    Updated TODO comments to clarify which should be done tomorrow rather than today.
+
+commit ad727a4ff24f63704cac637df5af67aa1175dfc8
+Author: Jed Menard <jmenard@mymail.mines.edu>
+Date:   Wed Feb 24 19:48:15 2016 -0700
+
+    ACTUALLY added todo lists haha.
+
+commit 77ac1284694b607c47d070e21784aeba776c8c1e
+Author: Jed Menard <jmenard@mymail.mines.edu>
+Date:   Wed Feb 24 19:42:59 2016 -0700
+
+    Setup the basics for each class, and added comments for what everything does and what needs to be done.
+
+commit 3bc072d8e51e84afca2612bbaef280bcbe6438ce
+Author: Jed Menard <jmenard@mymail.mines.edu>
+Date:   Wed Feb 24 19:12:50 2016 -0700
+
+    Initial commit

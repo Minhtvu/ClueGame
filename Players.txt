@@ -1,0 +1,6 @@
+Professor Periwinkle,pink,4,6
+Mrs. Peacock,blue,7,3
+Miss Scarlett,red,16,3
+Mr. Green,green,20,5
+Colonel Mustard,yellow,24,4
+Mrs. White,white,11,10

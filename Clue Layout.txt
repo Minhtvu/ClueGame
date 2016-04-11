@@ -1,0 +1,35 @@
+W	W	W	W	BL	B	B	BR	W	ML	M	M	M	0				
+W	W	W	W	B	B	B	B	W	M	M	M	M	1				
+KU	K	K	W	B	B	B	B	W	M	M	M	M	2				
+K	K	K	W	B	B	B	B	W	M	M	M	M	3				
+K	K	K	W	W	W	W	W	W	W	W	W	W	4				
+K	K	K	W	W	W	W	W	W	W	W	W	W	5				
+K	K	K	W	W	W	W	W	W	OR	W	L	L	6				1
+KD	K	K	W	X	X	X	X	X	O	W	L	L	7				
+W	W	W	W	X	X	X	X	X	O	W	L	L	8				
+W	W	W	W	X	X	X	X	X	O	W	L	L	9				
+HU	H	H	W	X	X	X	X	X	O	W	L	L	10				
+H	H	H	W	X	X	X	X	X	O	W	L	L	11				
+H	H	H	W	X	X	X	X	X	O	W	L	L	12				
+HD	H	H	W	X	X	X	X	X	O	W	L	L	13				
+W	W	W	W	W	W	W	DR	W	O	W	L	L	14				
+W	W	W	W	W	W	W	D	W	O	W	L	L	15				
+W	W	W	W	W	W	W	D	W	O	W	L	L	16				
+C	W	D	D	D	D	D	D	W	O	W	L	L	17				
+C	W	D	D	D	D	D	D	W	O	W	L	L	18				
+C	W	D	D	D	D	D	D	W	OR	W	L	L	19				
+C	W	W	W	W	W	W	W	W	W	W	L	L	20				
+C	W	W	W	W	W	W	W	W	W	W	L	L	21				
+C	W	P	P	P	P	P	P	P	P	W	L	L	22				
+C	W	P	P	P	P	P	P	P	P	W	L	L	23				
+C	W	W	W	W	W	W	P	P	P	W	L	L	24				
+CR	W	W	W	W	W	W	PL	P	PR	W	LL	L	25				
+0	1	2	3	4	5	6	7	8	9	10	11	12					
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	

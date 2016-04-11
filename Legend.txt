@@ -1,0 +1,11 @@
+B, Bathroom, Card
+K, Kitchen, Card
+H, Hallway, Card
+L, Lounge, Card
+P, Patio, Card
+D, Dining Room, Card
+O, Observatory, Card
+M, Master bedroom, Card
+C, Cleaning room, Card
+X, Closet, Other
+W, Walkway, Other
